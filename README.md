@@ -1,2 +1,2 @@
 # advent-of-code-2015
-All the programs or scripts used to work through the 2015 Advent Of Code
+The 2018 Advent is fun enough, so, eh, why not work through the previous years then.
